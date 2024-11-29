@@ -1,0 +1,61 @@
+/run/initialize
+#
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+# 
+# gamma 6 MeV to the direction (0.,0.,1.)
+#
+#/gun/particle gamma
+#/gun/energy 6 MeV
+#
+#/run/beamOn 5
+# 
+# proton 210 MeV to the direction (0.,0.,1.)
+#
+/gps/particle proton
+/tracking/verbose 0
+#
+/gps/hist/energy 115 0.000293187
+/gps/hist/energy 115.125 0.000293187
+/gps/hist/energy 115.25 0.000293187
+/gps/hist/energy 115.375 0.000293187
+/gps/hist/energy 115.5 0.000293187
+/gps/hist/energy 115.625 0.000293187
+/gps/hist/energy 115.75 0.000293187
+/gps/hist/energy 115.875 0.000293187
+/gps/hist/energy 116 0.000293187
+/gps/hist/energy 116.125 0.000293187
+/gps/hist/energy 116.25 0.000293187
+/gps/hist/energy 116.375 0.000293187
+/gps/hist/energy 116.5 0.000293187
+/gps/hist/energy 116.625 0.000293187
+/gps/hist/energy 116.75 0.000293187
+/gps/hist/energy 116.875 0.000293187
+/gps/hist/energy 117 0.000293187
+/gps/hist/energy 117.125 0.000293187
+/gps/hist/energy 117.25 0.000293187
+/gps/hist/energy 117.375 0.000293187
+/gps/hist/energy 117.5 0.000293187
+/gps/hist/energy 117.625 0.000293187
+/gps/hist/energy 117.75 0.000293187
+/gps/hist/energy 117.875 0.000293187
+/gps/hist/energy 118 0.000496593
+/gps/hist/energy 118.125 0.000544357
+/gps/hist/energy 118.25 0.000611623
+/gps/hist/energy 118.375 0.000711107
+/gps/hist/energy 118.5 0.000868659
+/gps/hist/energy 118.625 0.00114677
+/gps/hist/energy 118.75 0.0017532
+/gps/hist/energy 118.875 0.0036251
+/gps/hist/energy 119 0.0102127
+/gps/hist/energy 119.125 0.0262045
+/gps/hist/energy 119.25 0.0432581
+/gps/hist/energy 119.375 0.0051754
+/gps/hist/energy 119.5 1.23729e-06
+/gps/hist/energy 119.625 1.59413e-13
+/gps/hist/energy 119.75 1.10687e-23
+/gps/hist/energy 119.875 4.14185e-37
+
+/run/beamOn 10000000
