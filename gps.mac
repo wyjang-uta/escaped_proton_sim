@@ -17,45 +17,50 @@
 /gps/particle proton
 /tracking/verbose 0
 #
-/gps/hist/energy 115 0.000293187
-/gps/hist/energy 115.125 0.000293187
-/gps/hist/energy 115.25 0.000293187
-/gps/hist/energy 115.375 0.000293187
-/gps/hist/energy 115.5 0.000293187
-/gps/hist/energy 115.625 0.000293187
-/gps/hist/energy 115.75 0.000293187
-/gps/hist/energy 115.875 0.000293187
-/gps/hist/energy 116 0.000293187
-/gps/hist/energy 116.125 0.000293187
-/gps/hist/energy 116.25 0.000293187
-/gps/hist/energy 116.375 0.000293187
-/gps/hist/energy 116.5 0.000293187
-/gps/hist/energy 116.625 0.000293187
-/gps/hist/energy 116.75 0.000293187
-/gps/hist/energy 116.875 0.000293187
-/gps/hist/energy 117 0.000293187
-/gps/hist/energy 117.125 0.000293187
-/gps/hist/energy 117.25 0.000293187
-/gps/hist/energy 117.375 0.000293187
-/gps/hist/energy 117.5 0.000293187
-/gps/hist/energy 117.625 0.000293187
-/gps/hist/energy 117.75 0.000293187
-/gps/hist/energy 117.875 0.000293187
-/gps/hist/energy 118 0.000496593
-/gps/hist/energy 118.125 0.000544357
-/gps/hist/energy 118.25 0.000611623
-/gps/hist/energy 118.375 0.000711107
-/gps/hist/energy 118.5 0.000868659
-/gps/hist/energy 118.625 0.00114677
-/gps/hist/energy 118.75 0.0017532
-/gps/hist/energy 118.875 0.0036251
-/gps/hist/energy 119 0.0102127
-/gps/hist/energy 119.125 0.0262045
-/gps/hist/energy 119.25 0.0432581
-/gps/hist/energy 119.375 0.0051754
-/gps/hist/energy 119.5 1.23729e-06
-/gps/hist/energy 119.625 1.59413e-13
-/gps/hist/energy 119.75 1.10687e-23
-/gps/hist/energy 119.875 4.14185e-37
+/gps/pos/centre 0 0 -3 m
+/gps/direction 0 0 +1
+/gps/ene/type User
+/gps/hist/type energy
+/gps/hist/point 115000 0.000293187
+/gps/hist/point 115125 0.000293187
+/gps/hist/point 115250 0.000293187
+/gps/hist/point 115375 0.000293187
+/gps/hist/point 115500 0.000293187
+/gps/hist/point 115625 0.000293187
+/gps/hist/point 115750 0.000293187
+/gps/hist/point 115875 0.000293187
+/gps/hist/point 116000 0.000293187
+/gps/hist/point 116125 0.000293187
+/gps/hist/point 116250 0.000293187
+/gps/hist/point 116375 0.000293187
+/gps/hist/point 116500 0.000293187
+/gps/hist/point 116625 0.000293187
+/gps/hist/point 116750 0.000293187
+/gps/hist/point 116875 0.000293187
+/gps/hist/point 117000 0.000293187
+/gps/hist/point 117125 0.000293187
+/gps/hist/point 117250 0.000293187
+/gps/hist/point 117375 0.000293187
+/gps/hist/point 117500 0.000293187
+/gps/hist/point 117625 0.000293187
+/gps/hist/point 117750 0.000293187
+/gps/hist/point 117875 0.000293187
+/gps/hist/point 118000 0.000496593
+/gps/hist/point 118125 0.000544357
+/gps/hist/point 118250 0.000611623
+/gps/hist/point 118375 0.000711107
+/gps/hist/point 118500 0.000868659
+/gps/hist/point 118625 0.00114677
+/gps/hist/point 118750 0.0017532
+/gps/hist/point 118875 0.0036251
+/gps/hist/point 119000 0.0102127
+/gps/hist/point 119125 0.0262045
+/gps/hist/point 119250 0.0432581
+/gps/hist/point 119375 0.0051754
+/gps/hist/point 119500 1.23729e-06
+/gps/hist/point 119625 1.59413e-13
+/gps/hist/point 119750 1.10687e-23
+/gps/hist/point 119875 4.14185e-37
 
-/run/beamOn 10000000
+
+/run/beamOn 100
