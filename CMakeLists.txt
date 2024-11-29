@@ -49,6 +49,8 @@ set(EXAMPLEB1_SCRIPTS
   run1.mac
   run2.mac
   vis.mac
+  analysis/make_txt_output.C
+  analysis/plot.C
   )
 
 foreach(_script ${EXAMPLEB1_SCRIPTS})
